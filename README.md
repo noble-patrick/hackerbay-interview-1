@@ -28,7 +28,7 @@ There are three rounds to this interview:
 <b>Important:</b> During this round. Please be on your PC and not on your phone. Your interview will be cancelled immidiately if you call us with your phone.
 
 <b>#FAQ</b>
-
+<link rel="bookmark" https://github.com/hackerbay/interview#faq />
 <b>Where are you based? </b>
 
 Technically, NYC. Honestly, it doesn't matter. You can work out of anywhere you like. This job is remote.
