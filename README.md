@@ -39,6 +39,25 @@ Yes. We're NOT looking for part time employees.
 Can I work with you if I'm a student?
 
 No. ONLY work on these interview tasks if you have NO OTHER commitments. We have tried this before and this doesn't work. If you are a sudent, you should check out <a href="https://hackerbayuniversity.com/"> Hacker University </a>.  
+What do I need to work?
+
+A solid laptop with a stable and a fast internet connection. That's quite about it.
+
+When do I start with Round 1?
+
+Now.
+
+Is my salary negotiable?
+
+No. We pay everyone in the company equally. All Jr Devs are paid the same, all the Sr devs are paid the same, etc. Your salary depends only on your role.
+
+Can I do Round 2 in AngularJS instead?
+
+No. ReactJs is easy to learn. 3 days is enough to learn ReactJS from scratch and implement the project.
+
+Where do I send my GitHub link?
+
+Email us at: <a href="interviews@hackerbay.io/">interviews@hackerbay.io </a>
 
 
 
