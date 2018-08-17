@@ -27,7 +27,7 @@ There are three rounds to this interview:
             
 <b>Important:</b> During this round. Please be on your PC and not on your phone. Your interview will be cancelled immidiately if you call us with your phone.
 
-<b>FAQ</b>
+<b>#FAQ</b>
 
 <b>Where are you based? </b>
 
