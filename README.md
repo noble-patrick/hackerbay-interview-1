@@ -4,6 +4,10 @@ Thank you for interviewing with HackerBay. Please note this is a full time job a
 You will be working on these technologies when you’re working with us.
 
 <ul style="list-style: none;">
-    <li> MERN</li>
-   <li>Docker </li>
+            <li> MERN</li>
+            <li>Docker </li>
+            <li>  Kubernetes </li>
+            <li>CircleCI / Travis / etc.</li>
+            <li> Tests with Mocha, Chai, etc.</li>
+  
 </ul>
