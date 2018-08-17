@@ -9,8 +9,7 @@ You will be working on these technologies when you’re working with us.
             <li>  Kubernetes </li>
             <li>CircleCI / Travis / etc.</li>
             <li> Tests with Mocha, Chai, etc.</li>
-  
-</ul>
+  </ul>
 There are three rounds to this interview:
 
 Round 1: NodeJS Task Round:https://github.com/hackerbay/interview-backend-task Round 1 usually takes 3 hours to complete, but we give you 3 days to do so. Your deadline is 3 days from today. when you’re done, send us the gitHub link.
@@ -39,7 +38,7 @@ Yes. We're NOT looking for part time employees.
 
 Can I work with you if I'm a student?
 
-No. ONLY work on these interview tasks if you have NO OTHER commitments. We have tried this before and this doesn't work. If you are a sudent, you should check out <a href="https://hackerbayuniversity.com/"> Hacker University</>.  
+No. ONLY work on these interview tasks if you have NO OTHER commitments. We have tried this before and this doesn't work. If you are a sudent, you should check out <a href="https://hackerbayuniversity.com/"> Hacker University </a>.  
 
 
 
