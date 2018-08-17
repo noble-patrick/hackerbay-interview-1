@@ -27,7 +27,7 @@ There are three rounds to this interview:
             
 <b>Important:</b> During this round. Please be on your PC and not on your phone. Your interview will be cancelled immidiately if you call us with your phone.
 
-FAQ
+<b>FAQ</b>
 
 <b>Where are you based? </b>
 
@@ -40,35 +40,35 @@ Yes. We're NOT looking for part time employees.
 <b>Can I work with you if I'm a student? </b>
 
 No. ONLY work on these interview tasks if you have NO OTHER commitments. We have tried this before and this doesn't work. If you are a sudent, you should check out <a href="https://hackerbayuniversity.com/"> Hacker University </a>.  
-What do I need to work?
+<b>What do I need to work?</b>
 
 A solid laptop with a stable and a fast internet connection. That's quite about it.
 
-When do I start with Round 1?
+<b>When do I start with Round 1?</b>
 
 Now.
 
-Is my salary negotiable?
+<b>Is my salary negotiable?</b>
 
 No. We pay everyone in the company equally. All Jr Devs are paid the same, all the Sr devs are paid the same, etc. Your salary depends only on your role.
 
-Can I do Round 2 in AngularJS instead?
+<b>Can I do Round 2 in AngularJS instead?</b>
 
 No. ReactJs is easy to learn. 3 days is enough to learn ReactJS from scratch and implement the project.
 
-Where do I send my GitHub link?
+<b>Where do I send my GitHub link?</b>
 
 Email us at: <a href="interviews@hackerbay.io/">interviews@hackerbay.io </a>
 
-Is 3 day time period mentioned is for each round (Round 1 and Round 2) or both combined
+<b>Is 3 day time period mentioned is for each round (Round 1 and Round 2) or both combined</b>
 
 It's for each Round. 3 Days for Round 1 and 3 Days for Round 2. In total, you have 6 days to finish both the rounds.
 
-When will I know if I'm selected?
+<b>When will I know if I'm selected?</b>
 
 It depends on you. As soon as you finish both the rounds. We'll have 2 Skype calls next business day and we'll let you know about our decision on the same day. Date of Joining depends on your notice period with your current place of work. We usually want engineers join us as soon as they can. If you don't have a notice period, you can join as soon as we make a decision and start the onboarding process.
 
-Can I know more about the company?
+<b>Can I know more about the company?</b>
 
 Sure, Here are few things you can check out:
 
@@ -80,7 +80,7 @@ Employee Handbook:<a href="https://handbook.hackerbay.io/"> https://handbook.hac
 
 More Info: Email:<a href="interviews@hackerbay.io"> interviews@hackerbay.io </a>.
 
-Does hackerbay.com, hackerbay.co belong to you?
+<b>Does hackerbay.com, hackerbay.co belong to you?</b>
 
 No. Official website of the company is hackerbay.io
 
