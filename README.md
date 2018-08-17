@@ -12,11 +12,11 @@ You will be working on these technologies when you’re working with us.
   </ul>
 There are three rounds to this interview:
 
-Round 1: NodeJS Task Round:https://github.com/hackerbay/interview-backend-task Round 1 usually takes 3 hours to complete, but we give you 3 days to do so. Your deadline is 3 days from today. when you’re done, send us the gitHub link.
+<b>Round 1:</b> NodeJS Task Round:https://github.com/hackerbay/interview-backend-task Round 1 usually takes 3 hours to complete, but we give you 3 days to do so. Your deadline is 3 days from today. when you’re done, send us the gitHub link.
 
-Round 2: ReactJS Round: https://github.com/hackerbay/interview-frontend-task Round 2 usually takes 3 hours to complete, but we give you 3 days to do so. Your deadline is 3 days from today. when you’re done, send us the gitHub link.
+<b>Round 2:</b> ReactJS Round: https://github.com/hackerbay/interview-frontend-task Round 2 usually takes 3 hours to complete, but we give you 3 days to do so. Your deadline is 3 days from today. when you’re done, send us the gitHub link.
 
-Round 3: A call with the CEO. Please keep 2 hours free for this call. This will be a tech screening. You'll be tested on:
+<b>Round 3:</b> A call with the CEO. Please keep 2 hours free for this call. This will be a tech screening. You'll be tested on:
 
 <ul style="list-style: none;">
             <li> Live Programming (1 hr of live programming)</li>
