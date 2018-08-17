@@ -23,7 +23,7 @@ Round 3: A call with the CEO. Please keep 2 hours free for this call. This will 
             <li>Tech Q&A (~15 mins) </li>
             <li> Culture fit. (~15 mins) Kubernetes </li>
            
-            </ul>
+ </ul>
             
 Important: During this round. Please be on your PC and not on your phone. Your interview will be cancelled immidiately if you call us with your phone.
 
