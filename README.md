@@ -58,6 +58,7 @@ No. ReactJs is easy to learn. 3 days is enough to learn ReactJS from scratch and
 Where do I send my GitHub link?
 
 Email us at: <a href="interviews@hackerbay.io/">interviews@hackerbay.io </a>
+
 Is 3 day time period mentioned is for each round (Round 1 and Round 2) or both combined
 
 It's for each Round. 3 Days for Round 1 and 3 Days for Round 2. In total, you have 6 days to finish both the rounds.
@@ -71,6 +72,17 @@ Can I know more about the company?
 Sure, Here are few things you can check out:
 
 Website:<a href="https://hackerbay.io/"> https://hackerbay.io </a>.
+
+Our Products: CloudBoost.io, Fyipe.com, Genosyn.com
+
+Employee Handbook:<a href="https://handbook.hackerbay.io/"> https://handbook.hackerbay.io </a>.
+
+More Info: Email:<a href="interviews@hackerbay.io"> interviews@hackerbay.io </a>.
+
+Does hackerbay.com, hackerbay.co belong to you?
+
+No. Official website of the company is hackerbay.io
+
 
 
 
