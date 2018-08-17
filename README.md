@@ -25,18 +25,19 @@ There are three rounds to this interview:
            
  </ul>
             
-Important: During this round. Please be on your PC and not on your phone. Your interview will be cancelled immidiately if you call us with your phone.
+<b>Important:</b> During this round. Please be on your PC and not on your phone. Your interview will be cancelled immidiately if you call us with your phone.
 
 FAQ
-Where are you based?
+
+<b>Where are you based? </b>
 
 Technically, NYC. Honestly, it doesn't matter. You can work out of anywhere you like. This job is remote.
 
-Is this job full time?
+<b>Is this job full time?</b>
 
 Yes. We're NOT looking for part time employees.
 
-Can I work with you if I'm a student?
+<b>Can I work with you if I'm a student? </b>
 
 No. ONLY work on these interview tasks if you have NO OTHER commitments. We have tried this before and this doesn't work. If you are a sudent, you should check out <a href="https://hackerbayuniversity.com/"> Hacker University </a>.  
 What do I need to work?
